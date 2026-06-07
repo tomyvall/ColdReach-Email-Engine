@@ -1,0 +1,6 @@
+Hi {name}, 
+
+I noticed {company} has been scaling up. Let's talk about automating your data pipelines.
+
+Best,
+Tomy
